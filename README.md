@@ -33,39 +33,3 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 
 <br/>
-
-
-## 📊 My Github Stats
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-fouad&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✨ Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-fouad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>
-<br/>
-
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mittalsam98">
-</a>
-<a href="https://github.com/mittalsam98?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-<!--
-**mittalsam98/mittalsam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
